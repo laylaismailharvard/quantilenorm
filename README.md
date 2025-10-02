@@ -1,2 +1,2 @@
 # quantilenorm
-quantile normalization of merged datasets
+This project takes spatial transcriptomics data from the NanoString GeoMx Digital Spatial Profiler (DSP) platform for processing, quality controlling, and normalizing. This code is designed to handle two merged datasets (heart and kidney transplant samples). The scripts load raw data, perform QC filtering, background correction, limit-of-quantification (LOQ) assessment, and quantile normalization, and output processed data matrices and relevant visualisations for further research use and downstream analysis.
